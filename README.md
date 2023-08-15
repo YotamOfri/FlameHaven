@@ -17,7 +17,7 @@ Welcome to FlameHaven, your ultimate destination for unique necklaces, stylish l
     </ul>
   </div>
   <div style="flex: 1; max-width: 100%; width: 300px;">
-    <a href="https://google.com"><img src="./src/assets/Desktop.png" alt="Image Alt Text" style="max-width: 100%; width: 100%;"></a>
+    <a href="https://main--lustrous-malabi-ce1eeb.netlify.app/products"><img src="./src/assets/Desktop.png" alt="Image Alt Text" style="max-width: 100%; width: 100%;"></a>
   </div>
 </div>
 
@@ -25,7 +25,7 @@ Welcome to FlameHaven, your ultimate destination for unique necklaces, stylish l
 
 FlameHaven is an e-commerce website dedicated to providing high-quality necklaces, stylish lighters, and innovative gadgets for the modern lifestyle. Our mission is to offer a curated selection of products that combine style, functionality, and uniqueness.
 
-Visit the [FlameHaven Website](https://www.flamehaven.com) to explore our product offerings and make your shopping experience enjoyable and convenient.
+Visit the [FlameHaven Website](https://main--lustrous-malabi-ce1eeb.netlify.app/products) to explore our product offerings and make your shopping experience enjoyable and convenient.
 
 ## Features
 
