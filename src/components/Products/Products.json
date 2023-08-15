@@ -1,0 +1,103 @@
+{
+  "categories": [
+    {
+      "name": "Necklaces",
+      "products": [
+        {
+          "name": "Pendant Necklace",
+          "description": "TOP-CLASS MATERIAL-- Our Pendant Necklace Set are Made Of 316L Stainless Steel, Well Made And Extremely Sturdy, Do Not Rust or Tarnish, Innovative Electroplating Process Making It Long-time Color Retention Ability, Smooth Surface Give You Comfortable Wearing Experience, You Can Wear These Arrowheads Necklace Matching Set Every Day And Not Worry About Them Breaking.",
+          "image": [
+            "https://m.media-amazon.com/images/I/51mf7H7eCZS._AC_UX679_.jpg",
+            "https://m.media-amazon.com/images/I/51vj4SuX81S._AC_UX679_.jpg",
+            "https://m.media-amazon.com/images/I/61gdBlWBdJS._AC_UX679_.jpg",
+            "https://m.media-amazon.com/images/I/61KAmNlDcLS._AC_UX679_.jpg"
+          ],
+          "sales": 258,
+          "price": 14.99
+        },
+        {
+          "name": "Bar Pendant Necklace ",
+          "description": "MATERIAL: Stainless steel , NO rust colors , NO allergy,Its cool feeling of wearing whole the year fashion. ",
+          "image": [
+            "https://m.media-amazon.com/images/I/41KtF28pY7L._AC_UX679_.jpg",
+            "https://m.media-amazon.com/images/I/6159Ijo5BdL._AC_UX679_.jpg",
+            "https://m.media-amazon.com/images/I/71J1HzSSKJL._AC_UX679_.jpg",
+            "https://m.media-amazon.com/images/I/41mZ0QfcN6L._AC_.jpg"
+          ],
+          "sales": 39,
+          "price": 12.99
+        },
+        {
+          "name": "Titanium Magnetic  ",
+          "description": "Functional - The back of the necklace gathers 5 kinds of healthy elements with different functions. For other single magnet neacklace, it can more comprehensively stimulate the phagocytic ability of macrophages in the body to improve human immunity and shoulder Pain relief ",
+          "image": [
+            "https://m.media-amazon.com/images/I/61FpzLK8fqL._AC_UX679_.jpg",
+            "https://m.media-amazon.com/images/I/61DyUsivYsL._AC_UX679_.jpg",
+            "https://m.media-amazon.com/images/I/61bR-k1mlxL._AC_UX679_.jpg",
+            "https://m.media-amazon.com/images/I/7102Ph-6MIL._AC_UX679_.jpg"
+          ],
+          "sales": 52,
+          "price": 59.99
+        }
+      ]
+    },
+    {
+      "name": "Lighters",
+      "products": [
+        {
+          "name": "Solar Beam Torch",
+          "description": "Our torch lighter is designed with three-layers safety protection, slim and lightweight design is easy to put in your pocket and carry. blow torch lighter packed in an elegant gift box and is a great choice for Gift, etc.Ultra powerful blue flame torcher with 3 settings based on intensity. The strongest intensity can heat upwards to 1300C and go through metal. ",
+          "image": [
+            "https://m.media-amazon.com/images/I/61mKEAEUEwL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81XyzvhhLhS._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81V68OIr+OL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/81FoMhB7ZaL._AC_SL1500_.jpg"
+          ],
+          "sales": 102,
+          "price": 29.99
+        },
+        {
+          "name": "Dragon Lighter",
+          "description": "This gas lighter has a variable soft/jet torch flame function, press the button to emit a blue flame, release the button to switch to a soft orange flame.  ",
+          "image": [
+            "https://m.media-amazon.com/images/I/61eWuOfcEML._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71as3amxUzL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71fJV1uwLeL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71zWLeGn5AL._AC_SL1500_.jpg"
+          ],
+          "sales": 22,
+          "price": 9.5
+        }
+      ]
+    },
+    {
+      "name": "Gadgets",
+      "products": [
+        {
+          "name": "Smart Watch",
+          "description": "Bluetooth Call, Alexa Built-in1.8 DIY Dial with Blood Oxygen Heart Rate Sleep Fitness Tracker Notification Weather 100 Sport Modes Smartwatch for Android iOS Phone ",
+          "image": [
+            "https://m.media-amazon.com/images/I/71l6cnvwnXL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71pcg-DOWAL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71U721+BUsL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/712zT4DKUqL._AC_SL1500_.jpg"
+          ],
+          "sales": 48,
+          "price": 49.99
+        },
+        {
+          "name": "Sony WF-C500",
+          "description": "Truly Wireless In-Ear Bluetooth Earbud Headphones with Mic and IPX4 water resistance, Black ",
+          "image": [
+            "https://m.media-amazon.com/images/I/61MbFOIeJTL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/61LUeawoosL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/713Lta3pXFL._AC_SL1500_.jpg",
+            "https://m.media-amazon.com/images/I/71Ikhj+VacL._AC_SL1500_.jpg"
+          ],
+          "sales": 22,
+          "price": 68.24
+        }
+      ]
+    }
+  ]
+}
